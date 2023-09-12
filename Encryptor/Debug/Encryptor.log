@@ -1,6 +1,0 @@
-﻿  Encryptor.cpp
-C:\Users\David\Desktop\Programming\C++\Encryptor\Encryptor\Encryptor.cpp(50,20): warning C4018:  '<': signed/unsigned mismatch
-C:\Users\David\Desktop\Programming\C++\Encryptor\Encryptor\Encryptor.cpp(80,20): warning C4018:  '<': signed/unsigned mismatch
-C:\Users\David\Desktop\Programming\C++\Encryptor\Encryptor\Encryptor.cpp(98,20): warning C4018:  '<': signed/unsigned mismatch
-C:\Users\David\Desktop\Programming\C++\Encryptor\Encryptor\Encryptor.cpp(232,20): warning C4018:  '<': signed/unsigned mismatch
-  Encryptor.vcxproj -> C:\Users\David\Desktop\Programming\C++\Encryptor\Debug\Encryptor.exe
