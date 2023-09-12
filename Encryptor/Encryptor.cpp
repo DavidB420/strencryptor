@@ -1,6 +1,6 @@
-//Encryptor Copyright (C) 2019 David Badiei
+//Encryptor Copyright (C) 2019-2023 David Badiei
+//Encryptor Copyright (C) 2023 Bardia Moshiri
 #include <iostream>
-#include <windows.h>
 #include <string>
 #include <cstring>
 #include <ctype.h>
